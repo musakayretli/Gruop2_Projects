@@ -17,6 +17,8 @@ public class MainApp {
 
     }
 
+    
+    
 
     public static int topla(int a,int b){
         a=a*2;
